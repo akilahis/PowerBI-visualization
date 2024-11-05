@@ -1,2 +1,2 @@
-# PowerBI-visualization
-Visualizing pharmaceutical sales using data from Kaggle.
+Visualization of Pharmaceutical Sales using PowerBI.
+Using data from Kaggle (
